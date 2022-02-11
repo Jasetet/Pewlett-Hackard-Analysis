@@ -31,6 +31,13 @@ The output shows that there will be 72,458 people retiring which is a massive am
 
 ![total](https://user-images.githubusercontent.com/94948877/153534875-b31a969b-c2ce-424f-892c-ce2eb724eb6f.png)
 
-The total amount is broken down in the image below. 
+The total amount is broken down by department in the image below. 
 
 <img width="145" alt="retiring_titles_output" src="https://user-images.githubusercontent.com/94948877/153534909-66331ebc-b8d8-47ed-aa35-9ae2ef76e95a.png">
+I also used the code below to see how many people will be eligible to mentor new employees:
+
+![Mentor_count_code](https://user-images.githubusercontent.com/94948877/153535239-40f28a3c-ca2a-413b-b835-33fb6bae36a7.png)
+
+Which shows us that there will be 1,549 employees that will be able to mentor new employees which will be an issue with how many employees are going to be retiring. Sum is shown in the image below. 
+
+![Mentor_Count](https://user-images.githubusercontent.com/94948877/153535324-b6bbbcf6-1469-4a93-83a8-fb83b781c0ac.png)
